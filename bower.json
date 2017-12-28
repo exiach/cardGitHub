@@ -1,0 +1,26 @@
+{
+  "name": "card-github",
+  "description": "Test",
+  "main": "index.js",
+  "authors": [
+    "Daniel Canqui"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "angular"
+  ],
+  "homepage": "https://github.com/exiach/cardGitHub",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~3.2.1",
+    "angular": "~1.6.8",
+    "bootstrap": "~3.3.7",
+    "angular-resource": "~1.6.8"
+  }
+}
