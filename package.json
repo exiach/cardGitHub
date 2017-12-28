@@ -1,0 +1,22 @@
+{
+  "name": "card-github",
+  "version": "1.0.0",
+  "description": "Test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/exiach/cardGitHub.git"
+  },
+  "keywords": [
+    "angular"
+  ],
+  "author": "Daniel Canqui",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/exiach/cardGitHub/issues"
+  },
+  "homepage": "https://github.com/exiach/cardGitHub#readme"
+}
