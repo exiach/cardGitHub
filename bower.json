@@ -21,6 +21,7 @@
     "jquery": "~3.2.1",
     "angular": "~1.6.8",
     "bootstrap": "~3.3.7",
-    "angular-resource": "~1.6.8"
+    "angular-resource": "~1.6.8",
+    "angular-new-router": "^0.5.3"
   }
 }
