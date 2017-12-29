@@ -1,4 +1,15 @@
-<div ng-bind="nickName">
-    <img src="" alt="">
-
+<div class="container-fluid card">
+    <div class="col-lg-3">
+        <img ng-src="{{ user.avatar_url }}" alt="{{ nickName }}" height="50" width="50">
+    </div>
+    <div class="col-lg-9">
+        <p ng-bind="user.name"></p>
+        <p>
+            <a ng-href="{{ user.html_url }}" target="_blank">go to user page</a>
+        </p>
+        <p>
+            <a ng-href="{{ user.repos_url }}">go to repo</a>
+        </p>
+    </div>
 </div>
+
